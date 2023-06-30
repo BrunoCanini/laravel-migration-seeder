@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Database\Seeders\TrainsTableSeeder;
 use App\Http\Controllers\Guest\PageController;
 
 /*
